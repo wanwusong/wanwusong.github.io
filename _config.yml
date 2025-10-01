@@ -28,7 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Heart-led,steady onward"
   location         : "Wuhan,China"
-  employer         : "Huazhong University of Science and Technology"
+  employer         : "Huazhong University of |
+  Science and Technology"
   uri              : # URL
   email            : "song_p_x@163.com" 
 
