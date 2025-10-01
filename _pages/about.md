@@ -14,8 +14,9 @@ I am particularly excited about advancing embodied intelligence and bridging the
 
 ---
 ## 📰News {#news}
--2025.09：🤖 Received admission offer from Tsinghua SIGS, pursuing research in Embodied AI and Robot Learning.
--2024.05：🔍 Started Research Intern at Intelligence Manufacturing and Data Science Laboratory, HUST, focusing on Robotics Path-Planning and Control Algorithm.
+- 2025.09：🤖 Received admission offer from Tsinghua SIGS, pursuing research in Embodied AI and Robot Learning.
+
+- 2024.05：🔍 Started Research Intern at Intelligence Manufacturing and Data Science Laboratory, HUST, focusing on Robotics Path-Planning and Control Algorithm.
 
 ---
 ## 🏆Honors ＆ Awards {#honors}
