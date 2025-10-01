@@ -21,7 +21,7 @@ I am particularly excited about advancing embodied intelligence and bridging the
 
 ---
 
-## 🏆Honors ＆ awards {#honors}
+## 🏆Honors ＆ Awards {#honors}
 👉 
 
 ---
