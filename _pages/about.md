@@ -23,9 +23,9 @@ I am particularly excited about advancing embodied intelligence and bridging the
 
 ---
 ## 🎓Educations {#educations}
-- 2022.09 - 2026.06, Undergraduate, School of artificial intelligence and automation, HUST, Wuhan.
+- 2022.09 - 2026.06, Undergraduate, AIA, HUST, Wuhan.
 - 2019.09 - 2022.06, Northeast Yucai School, Shenyang.
 
 ---
 ## 💼Internships {#internships}
-- 2024.05 - 2025.03, Research Intern, HUST(Advised by Prof. Lijun Zhu[https://faculty.hust.edu.cn/ZHULIJUN/en/more/2288717/jsjjgd/index.htm])
+- 2024.05 - 2025.03, Research Intern, HUST(Advised by Prof. [Lijun Zhu](https://faculty.hust.edu.cn/ZHULIJUN/en/more/2288717/jsjjgd/index.htm)
