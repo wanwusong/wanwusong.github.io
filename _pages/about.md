@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Li Ming, a Ph.D. student at the Department of Computer Science, Tsinghua University, advised by Prof. Zhang Wei.  
+Hi! I am peixuan Song, a senior undergraduate student at school of artificial intelligence and automation, Huazhong University of Science and Technology（HUST）.  
 My research interests include **robot learning**, **reinforcement learning**, and **embodied AI**, with a focus on enabling robots to adapt to dynamic real-world environments.  
 I am passionate about building general-purpose learning systems that bridge the gap between simulation and real-world deployment.  
 
