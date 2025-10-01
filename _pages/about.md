@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
+title: "👋Welcome to my homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,6 +20,7 @@ I am particularly excited about advancing embodied intelligence and bridging the
 ---
 ## 🏆Honors ＆ Awards {#honors}
 - 
+
 ---
 ## 🎓Educations {#educations}
 - 2022.09 - 2026.06, Undergraduate, AIA, HUST, Wuhan.
