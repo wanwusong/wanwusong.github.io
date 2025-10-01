@@ -28,4 +28,4 @@ I am particularly excited about advancing embodied intelligence and bridging the
 
 ---
 ## 💼Internships {#internships}
-- 2024.05 - 2025.03, Research Intern, HUST(Advised by Prof. [Lijun Zhu](https://faculty.hust.edu.cn/ZHULIJUN/en/more/2288717/jsjjgd/index.htm)
+- 2024.05 - 2025.03, Research Intern, HUST(Advised by Prof. [Lijun Zhu](https://faculty.hust.edu.cn/ZHULIJUN/en/more/2288717/jsjjgd/index.htm))
