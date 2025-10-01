@@ -16,6 +16,7 @@ I am particularly excited about advancing embodied intelligence and bridging the
 ## 📰News {#news}
 - 2025.09：🤖 Received admission offer from Tsinghua SIGS, pursuing research in Embodied AI and Robot Learning.
 - 2024.05：🔍 Started Research Intern at Intelligence Manufacturing and Data Science Laboratory, HUST, focusing on Robotics Path-Planning and Control Algorithm.
+
 ---
 ## 🏆Honors ＆ Awards {#honors}
 - 
@@ -23,6 +24,7 @@ I am particularly excited about advancing embodied intelligence and bridging the
 ## 🎓Educations {#educations}
 - 2022.09 - 2026.06, Undergraduate, AIA, HUST, Wuhan.
 - 2019.09 - 2022.06, Northeast Yucai School, Shenyang.
+
 ---
 ## 💼Internships {#internships}
 - 2024.05 - 2025.03, Research Intern, HUST(Advised by Prof. [Lijun Zhu](https://faculty.hust.edu.cn/ZHULIJUN/en/more/2288717/jsjjgd/index.htm))
