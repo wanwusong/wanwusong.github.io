@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "👋Welcome to my homepage"
+title: "👋 Welcome to my personal homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 ## 👤 About Me {#about}
-Hi! I am Peixuan Song (Chinese: 宋沛轩), a senior undergraduate student at the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST).
-I will be joining Tsinghua Shenzhen International Graduate School (Tsinghua SIGS) as a graduate student in Fall 2026.
-My research drives me to create 🤖 embodied AI that perceives and acts in the real world. ⚡ I'm passionate about bridging the simulation-to-reality gap with advanced robot learning.
+Hi! I am Peixuan Song (Chinese: 宋沛轩), a senior undergraduate student at the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST).<br>
+I will be joining Tsinghua Shenzhen International Graduate School (Tsinghua SIGS) as a graduate student in Fall 2026.<br>
+My research drives me to create 🤖 embodied AI that perceives and acts in the real world. ⚡ I'm passionate about bridging the simulation-to-reality gap with advanced robot learning.<br>
 ⚖️ I also enjoy 🏓 playing table tennis and 🏊 swimming.
 
 ---
