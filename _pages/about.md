@@ -19,7 +19,15 @@ I am particularly excited about advancing embodied intelligence and bridging the
 
 ---
 ## 🏆Honors ＆ Awards {#honors}
-- 
+- 2025.10 National Scholarship (Undergraduate)(Top 3%)
+- 2025.07 National First Prize in 24th CURC ROBOCON
+- 2025.05 Outstanding undergraduate student of the university(Top 1%)
+- 2024.11 National Special Prize in the "Challenge Cup" competition
+- 2024.10 National Scholarship (Undergraduate)(Top 3%)
+- 2024.07 National First prize (Third place) in the racing track of CURC ROBOCON
+- 2024.07 National First prize (Fourth place) in the obstacle track of CURC ROBOCON
+- 2024.07 National First Prize in 23th CURC ROBOCON
+- 2023.10 National Scholarship (Undergraduate)(Top 1.5%)
 
 ---
 ## 🎓Educations {#educations}
