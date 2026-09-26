@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 ## 👤 About Me {#about}
-Hi! I am Peixuan Song (Chinese: 宋沛轩), a senior undergraduate student at the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST).<br>
-I am a first-year graduate student at Tsinghua SIGS, starting in Fall 2026.<br>
+Hi! I am Peixuan Song (Chinese: 宋沛轩).I received my B.E. degree from the School of Artificial Intelligence and Automation at Huazhong University of Science and Technology (HUST). <br>
+I am currently a first-year graduate student in the IC Lab at Tsinghua SIGS, advised by Prof. Xiu Li. <br>
 My research drives me to create 🤖 embodied AI that perceives and acts in the real world. <br>
 ⚡ I'm passionate about bridging the simulation-to-reality gap with advanced robot learning.<br>
 ⚖️ I also enjoy 🏓 playing table tennis and 🏊 swimming.
