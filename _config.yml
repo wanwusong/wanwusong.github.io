@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Peixuan Song / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Peixuan Song"
-description              : &description "a senior undergraduate student from Huazhong University of Science and Technology"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "a graduate student from Tsinghua University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wanwusong.github.io         # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "spx.png"
   name             : "Peixuan Song(宋沛轩)"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : "Heart-led, steady onward"
-  location         : "Wuhan, China"
-  employer         : "HUST AIA"
+  location         : "Shenzhen, China"
+  employer         : "Tsinghua SIGS"
   uri              : # URL
-  email            : "songpx@hust.edu.cn" 
+  email            : "songpx26@mails.tsinghua.edu.cn" 
 
   # Academic websites
   academia         : # URL
